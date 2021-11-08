@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mi-todo/static/css/main.43b44e21.chunk.css",
+    "main.js": "/mi-todo/static/js/main.4c7b63c1.chunk.js",
+    "main.js.map": "/mi-todo/static/js/main.4c7b63c1.chunk.js.map",
+    "runtime-main.js": "/mi-todo/static/js/runtime-main.1cdc6aaf.js",
+    "runtime-main.js.map": "/mi-todo/static/js/runtime-main.1cdc6aaf.js.map",
+    "static/js/2.4520ee53.chunk.js": "/mi-todo/static/js/2.4520ee53.chunk.js",
+    "static/js/2.4520ee53.chunk.js.map": "/mi-todo/static/js/2.4520ee53.chunk.js.map",
+    "index.html": "/mi-todo/index.html",
+    "static/css/main.43b44e21.chunk.css.map": "/mi-todo/static/css/main.43b44e21.chunk.css.map",
+    "static/js/2.4520ee53.chunk.js.LICENSE.txt": "/mi-todo/static/js/2.4520ee53.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cdc6aaf.js",
+    "static/js/2.4520ee53.chunk.js",
+    "static/css/main.43b44e21.chunk.css",
+    "static/js/main.4c7b63c1.chunk.js"
+  ]
+}
